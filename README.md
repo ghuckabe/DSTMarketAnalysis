@@ -1,7 +1,6 @@
-# DST MarketAnalysis
-The Effects of Daylight Savings Time Changes on Financial Markets
+# The Effects of Daylight Savings Time Changes on Financial Markets
 
-This project seeks to answer te question of whether there is a statistically significant difference within the stock market between Daylight Savings Time (DST) change weekends and nonDST weekends. We found a statistically significant result via statistical analysis and machine learning classifiers.
+Daylight savings time (DST) was first implemented in Canada in 1908 and then in the US in 1918 primarily to conserve resources during wartime. DST has been demonstrated to have an impact on sleep and health, and some evidence has been presented by Kramer, Kamstra, and Levi that suggests measurable impacts from DST change on the American stock market. Other statisticians such as Berument, Dogan, and Onar refute this notion, so the issue is certainly controversial. This project aims to contribute to this discourse by answering the question of if DST changes impact stock market behaviors and to characterize this impact if such exists. We found a statistically significant result via statistical analysis and machine learning classifiers.
 
 Some notebooks in this repository are dedicated to processing the data, some to exploratory data analysis/visualization, some to statistical methods, and some to applying classifiers. We split the analysis into the following sectors: finance, tech, health, consumer services. There is also one notebook for the transportation sector but without classifiers applied (it's a fairly small percentage of the total data). Below, we will describe each directory but first, we describe the data.
 
