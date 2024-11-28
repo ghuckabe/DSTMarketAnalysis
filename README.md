@@ -75,7 +75,7 @@ We have a few notebooks dedicated to exploring some rudimentary trading strategi
 `trading_strategy_comparison.ipynb`
 
 
-### Mischellaneous
+### Miscellaneous
 
 We also have one notebook in the main directory that does some rudimentary time series analysis of the finance sector.
 
